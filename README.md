@@ -36,12 +36,15 @@
 ## Skills:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/null/ubuntu--v1.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/docker.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://www.php.net//images/logos/php-med-trans-light.gif"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png"/>
-  <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
   <img src="https://img.icons8.com/color/48/null/nodejs.png"/>
 </p>
 
@@ -51,13 +54,11 @@
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1)
-- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to JavaScript](https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Audio Classification with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP)
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Python](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python)
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Machine Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning)
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning)
+- [![](https://img.shields.io/badge/-LINKEDIN-blue) PHP: Object-Oriented Programming](https://www.linkedin.com/learning/php-object-oriented-programming-2017)[   Certificates](https://drive.google.com/file/d/1tyHbNv7TabqrWgng3VeJumJa_YaN-L_M/view?usp=sharing)
+- [![](https://img.shields.io/badge/-LINKEDIN-blue) Laravel 9.0 Essential Training](https://www.linkedin.com/learning/laravel-9-0-essential-training)[   Certificates](https://drive.google.com/file/d/1t8RTmx8uxtuXe9Hmag2OB6rSdSeGjXYJ/view?usp=sharing)
+- [![](https://img.shields.io/badge/-LINKEDIN-blue) Learn API Documentation with JSON and XML](https://www.linkedin.com/learning/learn-api-documentation-with-json-and-xml)[   Certificates](https://drive.google.com/file/d/1JvrF1Qx-6n3gvuxL91ys4olP-KhWD67O/view?usp=sharing)
+- [![](https://img.shields.io/badge/-LINKEDIN-blue) Designing RESTful APIs](https://www.linkedin.com/learning/designing-restful-apis)[   Certificates](https://drive.google.com/file/d/1axTY3waR8wBNlQuvmFXkA41unr_r8KER/view?usp=sharing)
+- [![F8FULLSTACK.EDU](https://img.shields.io/badge/-F8-orange) JavaScript Basic](https://fullstack.edu.vn/cert/lh7wl)
+- [![F8FULLSTACK.EDU](https://img.shields.io/badge/-F8-orange) JavaScript Advanced](https://fullstack.edu.vn/cert/jqiq7)
+- [![F8FULLSTACK.EDU](https://img.shields.io/badge/-F8-orange) Node & ExpressJS](https://fullstack.edu.vn/cert/5bzqv)
+- [![F8FULLSTACK.EDU](https://img.shields.io/badge/-F8-orange) Ubuntu with WSL](https://fullstack.edu.vn/cert/2svwy)
