@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello! I'm Manh Tien</h1>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam </h3>
+  
 </p>
 
 
