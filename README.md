@@ -11,11 +11,11 @@
 
 <br />
 
-# Contact me:
+<!-- # Contact me: -->
 
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://linkedin.com/in/tienbm12/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
@@ -31,7 +31,7 @@
   <a href="mailto:tien1208xx@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
-</p>
+</p> -->
 
 ## Skills:
 <p align="center">
@@ -50,8 +50,8 @@
 
 
 
-# Certificates:
-
+<!-- # Certificates: -->
+<!-- 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![](https://img.shields.io/badge/-LINKEDIN-blue) PHP: Object-Oriented Programming](https://www.linkedin.com/learning/php-object-oriented-programming-2017)[   Certificates](https://drive.google.com/file/d/1tyHbNv7TabqrWgng3VeJumJa_YaN-L_M/view?usp=sharing)
@@ -61,4 +61,4 @@
 - [![F8FULLSTACK.EDU](https://img.shields.io/badge/-F8-orange) JavaScript Basic](https://fullstack.edu.vn/cert/lh7wl)
 - [![F8FULLSTACK.EDU](https://img.shields.io/badge/-F8-orange) JavaScript Advanced](https://fullstack.edu.vn/cert/jqiq7)
 - [![F8FULLSTACK.EDU](https://img.shields.io/badge/-F8-orange) Node & ExpressJS](https://fullstack.edu.vn/cert/5bzqv)
-- [![F8FULLSTACK.EDU](https://img.shields.io/badge/-F8-orange) Ubuntu with WSL](https://fullstack.edu.vn/cert/2svwy)
+- [![F8FULLSTACK.EDU](https://img.shields.io/badge/-F8-orange) Ubuntu with WSL](https://fullstack.edu.vn/cert/2svwy) -->
