@@ -40,12 +40,12 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
   <img src="https://img.icons8.com/color/48/null/ubuntu--v1.png"/>
-  <img src="https://img.icons8.com/fluency/48/null/docker.png"/>
+<!--   <img src="https://img.icons8.com/fluency/48/null/docker.png"/> -->
   <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://www.php.net//images/logos/php-med-trans-light.gif"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png"/>
-  <img src="https://img.icons8.com/color/48/null/nodejs.png"/>
+<!--   <img src="https://img.icons8.com/color/48/null/nodejs.png"/> -->
 </p>
 
 
